@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mychart_single/precache-manifest.52d22a73ccfe0954e11a7ae0f6f0aa95.js"
+  "/mychart_single/precache-manifest.4d0ca358dab8b20834d2bbe7d704d8ac.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "chart_single"});
