@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mychart_single/big-data.svg"
   },
   {
-    "revision": "af72bee3584c008d04ef",
+    "revision": "e9819eb0012bd21759f8",
     "url": "/mychart_single/css/app.b09c5dc2.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mychart_single/css/chunk-vendors.cbc2a074.css"
   },
   {
-    "revision": "c21a4636e3b6154ca9cb98d41b6697b7",
+    "revision": "6f1339369ff602294536da21391b163a",
     "url": "/mychart_single/index.html"
   },
   {
-    "revision": "af72bee3584c008d04ef",
-    "url": "/mychart_single/js/app.fa2b00df.js"
+    "revision": "e9819eb0012bd21759f8",
+    "url": "/mychart_single/js/app.2b55ff4a.js"
   },
   {
     "revision": "12fc2c8baeeb8a9e3f65",
